@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="oval"
+       android:useLevel="false">
+  <!--此处只需定义一个空白的滑块尺寸即可-->
+  <size
+      android:width="@dimen/seekbarThumbSize"
+      android:height="@dimen/seekbarThumbSize"/>
+
+</shape>

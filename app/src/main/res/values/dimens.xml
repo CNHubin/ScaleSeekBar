@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--这个值决定DigitalThumbSeekbar的滑块的大小即Seekbar高度-->
+    <dimen name="seekbarThumbSize">30dp</dimen>
+</resources>
